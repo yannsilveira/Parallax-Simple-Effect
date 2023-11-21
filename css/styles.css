@@ -122,3 +122,30 @@ header {
     font-weight: 300;
     text-align: justify;
 }
+
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.pumpkin {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.ghost {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.forest {
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
